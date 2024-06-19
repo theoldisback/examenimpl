@@ -1,6 +1,11 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\Examen.WEB",
+    "\\Examen.WEB\\Controllers",
+    "\\Examen.WEB\\Views",
+    "\\Examen.WEB\\Views\\Enseignant"
   ],
+  "SelectedNode": "\\Examen.WEB\\Controllers\\EnseignantController.cs",
   "PreviewInSolutionExplorer": false
 }
