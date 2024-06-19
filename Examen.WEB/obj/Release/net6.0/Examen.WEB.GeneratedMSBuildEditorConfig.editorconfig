@@ -9,11 +9,11 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = Examen.WEB
 build_property.RootNamespace = Examen.WEB
-build_property.ProjectDir = C:\Users\the_old_is_back\Desktop\exam\ExamenImp\Examen.Web\
+build_property.ProjectDir = C:\Users\the_old_is_back\Desktop\exam\ExamenImp\Examen.WEB\
 build_property.RazorLangVersion = 6.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = C:\Users\the_old_is_back\Desktop\exam\ExamenImp\Examen.Web
+build_property.MSBuildProjectDirectory = C:\Users\the_old_is_back\Desktop\exam\ExamenImp\Examen.WEB
 build_property._RazorSourceGeneratorDebug = 
 
 [C:/Users/the_old_is_back/Desktop/exam/ExamenImp/Examen.Web/Views/Candidature/Index.cshtml]
