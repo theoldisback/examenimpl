@@ -1,9 +1,2 @@
- creation base de donnees 
-	l examen wsol haw kaed nekhdem
-l khedma fassakhtha besh matssirsh conflis stana chwaya besh n7ot  l khedma jdida
-
-ken t7eeeb tektebli haja  ekteebha leena w a3meel f dossier 
-
-git add .
-git commit -m "all"
-git push
+ add-migration initmig
+update-database
