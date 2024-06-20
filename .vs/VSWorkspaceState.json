@@ -1,11 +1,15 @@
 {
   "ExpandedNodes": [
     "",
+    "\\Examen.ApplicationCore",
+    "\\Examen.ApplicationCore\\bin",
+    "\\Examen.ApplicationCore\\Domain",
+    "\\Examen.Console",
     "\\Examen.WEB",
     "\\Examen.WEB\\Controllers",
+    "\\Examen.WEB\\Properties",
     "\\Examen.WEB\\Views",
     "\\Examen.WEB\\Views\\Enseignant"
   ],
-  "SelectedNode": "\\Examen.WEB\\bin",
   "PreviewInSolutionExplorer": false
 }
