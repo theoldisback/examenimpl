@@ -1,2 +1,1 @@
- add-migration initmig
-update-database
+fassakht l .net w spring chtalgeeh hnee
